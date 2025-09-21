@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="lg" x1="0" x2="1">
+      <stop offset="0" stop-color="#0D1B2A"/>
+      <stop offset="1" stop-color="#10243A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#lg)"/>
+  <g fill="#FFD700" opacity="0.06"><ellipse cx="800" cy="250" rx="700" ry="260"/></g>
+  <text x="120" y="320" font-family="Helvetica, Arial, sans-serif" font-size="64" fill="#FFD700">NOVAVERA</text>
+  <text x="120" y="400" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#FFFFFF">Connecting Beauty to the World</text>
+</svg>
